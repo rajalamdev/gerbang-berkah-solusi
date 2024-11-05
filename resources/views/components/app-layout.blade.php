@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
-    <title>Document</title>
+    <title>GBSI</title>
     <!-- Favicons -->
     <link href="{{asset('components')}}/img/logo.png" rel="icon" />
     <link href="{{asset('components')}}/img/apple-touch-icon.png" rel="apple-touch-icon" />

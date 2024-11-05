@@ -126,7 +126,7 @@
                 </p>
               </div>
             </div>
-            <div class="col-md-4 wow fadeInUp">
+            <div class="flex col-md-4 wow fadeInUp items-end">
               <div class="about-col">
                 <div class="img">
                   <img src="{{asset('components')}}/img/about-mission.jpg" alt="" class="img-fluid" />
@@ -174,9 +174,7 @@
                   alt=""
                 />
               </p>
-            </div>
-
-          
+            </div>          
           </div>
         </div>
       </section>
